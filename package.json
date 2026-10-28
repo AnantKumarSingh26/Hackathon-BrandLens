@@ -1,0 +1,25 @@
+{
+  "name": "backend-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AnantKumarSingh26/Hackathon-BrandLens#readme",
+  "bugs": {
+    "url": "https://github.com/AnantKumarSingh26/Hackathon-BrandLens/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnantKumarSingh26/Hackathon-BrandLens.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4",
+    "zod": "^4.6.7"
+  }
+}
